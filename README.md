@@ -4,7 +4,7 @@
 
 ### Description of the Project
 
-Our project Unknow is a very good project. The idea will come and we will find a very good project. I'm with Ulysse, Paul and Basile.
+Our project Unknow is a very good project. The idea will come and we will find a very good project. I'm with Maximilien, Paul and Basile.
 
 Features : 
 1. The possibility to add something
